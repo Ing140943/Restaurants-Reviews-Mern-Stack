@@ -11,9 +11,9 @@ Develop by MERN Stack
 
     > go to backend directory
         
-    > `nodemon server`
+    > nodemon server
 
 You have to run another terminal
 ### Frontend
     > go to frontend directory
-    > `npm start`
+    > npm start
